@@ -156,9 +156,9 @@ namespace CRUD
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(402, 67);
+            this.dataGridView1.Location = new System.Drawing.Point(370, 67);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(364, 310);
+            this.dataGridView1.Size = new System.Drawing.Size(396, 310);
             this.dataGridView1.TabIndex = 13;
             // 
             // Form1
